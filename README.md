@@ -3,6 +3,8 @@ for homework tasks
 
 added some text
 
+added another line
+
 # subtask
 во 2й строке шаблон, по которому будут ингорироваться все файлы в папке .terraform/ во всех вложенных папках.
 
